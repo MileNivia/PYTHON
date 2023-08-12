@@ -1,0 +1,18 @@
+# Inventario GOMITAS TRULULU
+# El inventario de gomitas debe ser mayor o igual a 100
+#y debe ser menor o igual 1000
+
+#stock = int(input('')
+#
+#Inventario inicial 
+#Inventario Final
+
+#stock = input ('Ingrese el valor del inventario: ')
+#stock= int(stock)
+#print(f'El valor ingresado de inventario fue de: {stock} ')
+#print(stock >=100 and stock <=1000)
+#Lista = ['vendedor','administrativo']
+
+role = input ("ingrese su rol: ")
+print(role=="cajero" or role=="admin")
+
